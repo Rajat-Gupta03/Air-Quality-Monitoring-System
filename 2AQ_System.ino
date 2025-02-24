@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3mFDHincE"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Air Quality Monitoring"
-#define BLYNK_AUTH_TOKEN "uC6nDpkS-p-H-pizQXimqAus9HNc5lIt"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
